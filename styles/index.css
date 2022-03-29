@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background-image: url(../assets/Background_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image{
+    display: block;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 130px;
+    justify-content: center;
+    border: 3px solid white;
+    border-radius: 30px;
+}
+
+.header{
+    text-align: center;
+    margin-bottom: 1%;
+    color: #246A73;
+}
+
+.main{
+    text-align: center;
+    color: #246A73;
+}
+
+.about{
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+.about p{
+    color: #0F2B2F;
+}
+
+.musics{
+    width: 150px;
+    display: inline-block;
+    margin-inline: 10px;
+    padding-top: 30px;
+}
+
+#album{
+    width: 130px;
+}
+
+.musics a{
+    text-decoration: none;
+    color: #00FDDC;
+    transition: all 0.5s;
+}
+
+.musics a:hover{
+    color: #008F7C;
+}
+
+.title{
+    padding-top: 5px;
+}
+
+.footer{
+    margin-top: 1%;
+    text-align: center;
+}
+
+#github{
+    width: 40px;
+    float: left;
+    margin-left: 92%;
+}
+
+#linkedin{
+    width: 40px;
+    float: right;
+    margin-right: 1%;
+}
