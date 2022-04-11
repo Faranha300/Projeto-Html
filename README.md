@@ -1,4 +1,4 @@
-Projeto em Html e css da disciplina de Introdução a Computação
+Projeto em HTML e CSS da disciplina de Introdução a Computação
 
 CIN - UFPE
 
